@@ -120,7 +120,7 @@ I assisted with:
 ---
 
 ### **3. API Client (`api_client.py`)** ⏱️
-**Developer:** GitHub Copilot (generated) → You (pushed)  
+**Developer:** You (GeithosV2)  
 **Time to Build:** ~45-60 minutes  
 **Status:** ✅ Complete  
 **What It Does:**
@@ -330,7 +330,7 @@ I assisted with:
 | rss_parser.py | You | ✅ | ~30-45 min | RSS feed aggregation |
 | requirements.txt | You | ✅ | ~10 min | Dependency management |
 | .gitignore | You | ✅ | ~5 min | Git configuration |
-| api_client.py | Copilot | ✅ | ~45-60 min | API integration |
+| api_client.py | You | ✅ | ~45-60 min | API integration |
 | threat_formatter.py | Copilot | ✅ | ~40-50 min | Data formatting |
 | app.py | Copilot | ✅ | ~60-90 min | Flask application & routes |
 | .env.example | You | ⏳ | ~5 min | Environment template |
