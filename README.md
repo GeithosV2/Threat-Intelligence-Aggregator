@@ -172,7 +172,7 @@ I assisted with:
 ---
 
 ### **5. Database Models (`database.py`)** ⏱️
-**Developer:** GitHub Copilot (generated)  
+**Developer:** You (GeithosV2) 
 **Time to Build:** ~20-30 minutes  
 **Status:** ⏳ Ready to push  
 **What It Does:**
@@ -333,11 +333,11 @@ I assisted with:
 | api_client.py | Copilot | ✅ | ~45-60 min | API integration |
 | threat_formatter.py | Copilot | ✅ | ~40-50 min | Data formatting |
 | app.py | Copilot | ✅ | ~60-90 min | Flask application & routes |
-| .env.example | You | ✅ | ~5 min | Environment template |
-| Dockerfile | You | ✅ | ~20 min | Docker containerization |
-| docker-compose.yml | You | ✅ | ~15 min | Docker orchestration |
-| templates/index.html | You | ✅ | ~90-120 min | Web dashboard UI |
-| database.py | Copilot | ⏳ | ~20-30 min | Database models |
+| .env.example | You | ⏳ | ~5 min | Environment template |
+| Dockerfile | You | ⏳ | ~20 min | Docker containerization |
+| docker-compose.yml | You | ⏳ | ~15 min | Docker orchestration |
+| templates/index.html | You | ⏳ | ~90-120 min | Web dashboard UI |
+| database.py | You | ⏳ | ~20-30 min | Database models |
 
 **Total Development Time Estimate:** 6-8 hours  
 **Your Hands-On Development:** ~4-5.5 hours (config, parser, requirements, gitignore, .env, Dockerfile, docker-compose, HTML)  
